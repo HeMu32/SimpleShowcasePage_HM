@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Part 1",
+    "cards": [
+      {
+        "image": "https://via.placeholder.com/200",
+        "alt": "Pic 1",
+        "title_text": "Text 1.1",
+        "comment": "Text 1.2"
+      },
+      {
+        "image": "https://via.placeholder.com/200",
+        "alt": "Pic 2",
+        "title_text": "Text 2.1",
+        "comment": "Text 2.2"
+      },
+      {
+        "image": "https://via.placeholder.com/200",
+        "alt": "Pic 3",
+        "title_text": "Text 3.1",
+        "comment": "Text 3.2"
+      },
+      {
+        "image": "https://via.placeholder.com/200",
+        "alt": "Pic 4",
+        "title_text": "Text 4.1",
+        "comment": "Text 4.2"
+      },
+      {
+        "image": "https://via.placeholder.com/200",
+        "alt": "Pic 5",
+        "title_text": "Text 5.1",
+        "comment": "Text 5.2"
+      }
+    ]
+  },
+  {
+    "title": "Part 2",
+    "cards": [
+      {
+        "image": "https://via.placeholder.com/200",
+        "alt": "Pic 6",
+        "title_text": "Text 6.1",
+        "comment": "Text 6.2"
+      },
+      {
+        "image": "https://via.placeholder.com/200",
+        "alt": "Pic 7",
+        "title_text": "Text 7.1",
+        "comment": "Text 7.2"
+      }
+    ]
+  }
+]

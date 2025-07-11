@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>卡片记录格式化工具</title>
+    <style>
+        body { font-family: sans-serif; margin: 20px; }
+        .container { max-width: 600px; margin: 0 auto; padding: 20px; border: 1px solid #ccc; border-radius: 8px; }
+        div { margin-bottom: 10px; }
+        label { display: inline-block; width: 80px; }
+        input[type="text"], textarea { width: calc(100% - 90px); padding: 8px; border: 1px solid #ddd; border-radius: 4px; }
+        button { padding: 10px 15px; background-color: #007bff; color: white; border: none; border-radius: 4px; cursor: pointer; }
+        button:hover { background-color: #0056b3; }
+        pre { background-color: #f4f4f4; padding: 10px; border-radius: 4px; white-space: pre-wrap; word-break: break-all; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>卡片记录格式化工具</h1>
+        <div>
+            <label for="imageUrl">URL:</label>
+            <input type="text" id="imageUrl" value="">
+        </div>
+        <div>
+            <label for="altName">替代名称:</label>
+            <input type="text" id="altName" value="">
+        </div>
+        <div>
+            <label for="title">标题:</label>
+            <input type="text" id="title" value="">
+        </div>
+        <div>
+            <label for="artist">艺人:</label>
+            <input type="text" id="artist" value="">
+        </div>
+        <div>
+            <label for="sequence">序号:</label>
+            <input type="text" id="sequence" value="0">
+        </div>
+        <div>
+            <label for="album">专辑:</label>
+            <input type="text" id="album" value="Single">
+        </div>
+        <div>
+            <label for="year">年份:</label>
+            <input type="text" id="year" value="">
+        </div>
+        <div>
+            <label for="comment">评论:</label>
+            <textarea id="comment">默认评论</textarea>
+        </div>
+        <button id="formatBtn">格式化</button>
+        <h2>输出:</h2>
+        <pre id="output"></pre>
+        <button id="copyBtn">复制</button>
+    </div>
+    <script src="parse.js"></script>
+</body>
+</html>

@@ -1,0 +1,96 @@
+[
+  {
+    "title": "本年",
+    "cards": [
+      {
+        "image": "asstes/asu_delay.jpg",
+        "alt": "delay",
+        "title_text": "スロウリー\n明透\n#2, ASU (2023)",
+        "comment": "很上头的感觉就是, 说不上来啥就是想听"
+      },
+      {
+        "image": "asstes/mayn_jinseishinko.jpg",
+        "alt": "jinseishinko",
+        "title_text": "人生進行形\nMay'n ft. MIMI\n#4, 15Colors -nu skool- (2020)",
+        "comment": "虽然Vocal不是最喜欢的类型, 但是总体上钢琴沙锤啥的搭起来, 是耳目一新的感觉, 可能是平常Bass听多了\n编曲比米米一般的V曲丰富一些, 米米最好了"
+      },
+      {
+        "image": "asstes/suisei_kireigoto.jpg",
+        "alt": "kireigoto",
+        "title_text": "綺麗事\n星街すいせい\n#11, 新星目録 (2025)",
+        "comment": "劲"
+      },
+      {
+        "image": "asstes/rd-sounds_manima.jpg",
+        "alt": "kazenoyukue",
+        "title_text": "かぜのゆくえ\n凋叶棕 ft. nayuta\n#14, 随 (2017)",
+        "comment": "史诗一样的曲子"
+      }
+    ]
+  },
+  {
+    "title": "非本年",
+    "cards": [
+      {
+        "image": "asstes/zytokine_roundabout.jpg",
+        "alt": "roundabout_zytokine",
+        "title_text": "roundabout\n隣人, 高橋菜々, aki, 絃鳥, nachi\n#14, THNQ -THE BEST of ZYTOKINE/CYTOKINE- (2017)",
+        "comment": "编曲充实, 长度管饱"
+      },
+      {
+        "image": "asstes/albemuth_byakuyanite.jpg",
+        "alt": "roundabout_zytokine",
+        "title_text": "白夜にて\nAlbemuth ft. 雄之助\n#6, eve (2023)",
+        "comment": "惊艳且充实的编曲, 人声细节到位\n可惜存流走了组合没了"
+      },
+      {
+        "image": "asstes/aquastyle_illusion.jpg",
+        "alt": "roundabout_zytokine",
+        "title_text": "それは失われた日々\nAQUA STYLE\n#3, 幻想フォークロア -illusion folklore- (2011)",
+        "comment": "厚重, 丰富, 情绪强烈的民乐改编"
+      },
+      {
+        "image": "asstes/yuika_konironiakogarete.jpg",
+        "alt": "konironiakogarete",
+        "title_text": "紺色に憧れて\n『ユイカ』\n#1, 紺色に憧れて (2024)",
+        "comment": "青春的明快与活力"
+      },
+      {
+        "image": "asstes/shinra-bansho_tsukimade1byochotto.jpg",
+        "alt": "tsukimade",
+        "title_text": "月まで1秒ちょっと\n森羅万象\n#2, 夜間飛行 (2021)",
+        "comment": "我这个人很简单, 你给我听ayo我就会似\n听一辈子J-Pop"
+      },
+      {
+        "image": "asstes/astluna_somedayinthatsummer.jpg",
+        "alt": "somedayinthatsummer",
+        "title_text": "あの夏のいつかは (2023 Ver.)\n*Luna, ねんね\nSingle (2023)",
+        "comment": "夏天的感觉, 只在*Luna"
+      },
+      {
+        "image": "asstes/suisei_bibidiba.jpg",
+        "alt": "bibidiba",
+        "title_text": "ビビデバ\n星街すいせい\nSingle (2023)",
+        "comment": "BIBBIDI BOBBIDI BOOWA"
+      },
+      {
+        "image": "asstes/aquastyle_illusion.jpg",
+        "alt": "roundabout_zytokine",
+        "title_text": "荒野の果てで…\nAQUA STYLE\n#8, 幻想フォークロア -illusion folklore- (2011)",
+        "comment": "厚重, 丰富, 情绪强烈的民乐改编"
+      },
+      {
+        "image": "asstes/shanghaialice_casketofstars.jpg",
+        "alt": "casketofstars",
+        "title_text": "星の器 ～ Casket of Star\n上海アリス幻樂団\n#11, 幺樂団の歴史 1～ Akyu's Untouched Score vol.1 (2006)",
+        "comment": "不同于部分原曲只有编曲含金量够高, 本曲直接有着非常高的完成度\n其实MIDI音色不够完美, 频谱的覆盖上并不广, 但是天才的编曲居然回避了不少问题"
+      },
+      {
+        "image": "asstes/eguchitakahiro_besidesyou.jpg",
+        "alt": "besidesyouext",
+        "title_text": "Beside You (Extended ver.)\n江口孝宏\n#25, Arcaea Sound Collection: Memories of Dreams (2021)",
+        "comment": ""
+      }
+    ]
+  }
+]

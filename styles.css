@@ -1,0 +1,83 @@
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 0; /* 缩短卡片间距 */
+    padding: 0rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.card-component {
+    display: flex;
+    align-items: stretch;
+    gap: 1rem;
+    padding: 1rem;
+/*
+    border: 1px solid #ccc;
+    border-radius: 8px;
+*/
+}
+/*
+.card-component:not(:last-child) {
+    border-bottom: 1px solid #eee; 
+}
+*/
+.card-component img {
+    max-width: 80px;
+    height: auto;
+    border-radius: 4px;
+}
+
+.text-wrapper {
+    flex: 1;
+    display: flex;
+    align-items: center; /* 新增此行以垂直居中文本 */
+    position: relative; /* 为伪元素定位提供上下文 */
+}
+
+.text-content {
+    width: 50%;
+    box-sizing: border-box;
+    padding: 0 0.5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.text-wrapper .text-content:nth-child(2) {
+    color: gray; /* 保持灰色文本 */
+}
+
+.text-wrapper::before {
+    content: '';
+    position: absolute;
+    left: 50%; /* 定位到 text-wrapper 的中间 */
+    transform: translateX(-0.5rem); /* 稍微向左偏移，与 text-content 的 padding-left 对齐 */
+    top: 18%;
+    height: 64%;
+    width: 1px;
+    background-color: gray;
+}
+
+.text-content p {
+    margin: 0;
+}
+
+.text-wrapper .text-content:nth-child(2) {
+    color: gray;
+}
+
+.card-section + .card-section {
+    margin-top: 2rem;
+}
+
+.card-section h2 {
+    margin-bottom: 1rem;
+    padding: 0 1rem; /* 与 .container 的内边距对齐 */
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}

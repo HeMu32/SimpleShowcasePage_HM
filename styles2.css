@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 1rem;
+}
+
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 1rem;
+}
+
+.v-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden; /* 确保圆角能正确显示 */
+    display: flex;
+    flex-direction: column;
+}
+
+.v-card img {
+    width: 100%;
+    display: block;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+}
+
+.card-text {
+    padding: 0.75rem;
+    border-top: 1px solid #ccc;
+}
+
+.v-card .card-text:nth-child(3) {
+    color: gray;
+}
+
+.card-section + .card-section {
+    margin-top: 2rem;
+}
+
+.card-section h2 {
+    margin-bottom: 1rem;
+}
