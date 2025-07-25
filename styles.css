@@ -30,6 +30,7 @@ body {
     max-width: 80px;
     height: auto;
     border-radius: 4px;
+    align-self: center; /* 防止图片被拉伸 */
 }
 
 .text-wrapper {
