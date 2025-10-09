@@ -33,6 +33,26 @@
         "comment": "劲"
       },
       {
+        "image": "asstes/shinra-bansho_tengoku.jpg",
+        "alt": "tengoku",
+        "title": "神様の暇潰し",
+        "artist": "森羅万象",
+        "trkno": 2,
+        "album": "天国",
+        "year": 2025,
+        "comment": "憋了这么久果然劲大"
+      },
+      {
+        "image": "asstes/maisondes_aiwanna.jpg",
+        "alt": "aiwanna",
+        "title": "アイワナムチュー",
+        "artist": "MAISONdes",
+        "trkno": 0,
+        "album": "Single",
+        "year": 2023,
+        "comment": ""
+      },
+      {
         "image": "asstes/rd-sounds_manima.jpg",
         "alt": "kazenoyukue",
         "title": "かぜのゆくえ",
@@ -51,7 +71,7 @@
         "image": "asstes/zytokine_roundabout.jpg",
         "alt": "roundabout_zytokine",
         "title": "roundabout",
-        "artist": "隣人, 高橋菜々, aki, 絃鳥, nachi",
+        "artist": "隣人, 高橋菜々, aki, 絃鳥, 坂上なち",
         "trkno": 14,
         "album": "THNQ -THE BEST of ZYTOKINE/CYTOKINE-",
         "year": 2017,
@@ -78,6 +98,56 @@
         "comment": "厚重, 丰富, 情绪强烈的民乐改编"
       },
       {
+        "image": "asstes/pikasonic_flyingcat.jpg",
+        "alt": "flyingcat",
+        "title": "空飛ぶ猫",
+        "artist": "Nanastukaze",
+        "trkno": 0,
+        "album": "Single",
+        "year": 2024,
+        "comment": "24年还是吃太好了"
+      },
+      {
+        "image": "asstes/pikasonic_replay.jpg",
+        "alt": "replay",
+        "title": "再生",
+        "artist": "Nanastukaze",
+        "trkno": 0,
+        "album": "Single",
+        "year": 2024,
+        "comment": "路转粉只需要一秒"
+      },
+      {
+        "image": "asstes/pikasonic_hazymoon.jpg",
+        "alt": "hazymoonnight",
+        "title": "朧月夜",
+        "artist": "Nanastukaze",
+        "trkno": 0,
+        "album": "Single",
+        "year": 2023,
+        "comment": ""
+      },
+      {
+        "image": "asstes/pikasonic_wildflowers.jpg",
+        "alt": "wildflowers",
+        "title": "Wildflowers",
+        "artist": "PIKASONIC",
+        "trkno": 0,
+        "album": "Single",
+        "year": 2020,
+        "comment": "和上面的胧月夜居然很相合"
+      },
+      {
+        "image": "asstes/pikasonic_asuka.jpg",
+        "alt": "pika_asuka",
+        "title": "Asuka",
+        "artist": "PIKASONIC",
+        "trkno": 0,
+        "album": "Single",
+        "year": 2018,
+        "comment": "梦开始的地方 (?)"
+      },
+      {
         "image": "asstes/yuika_konironiakogarete.jpg",
         "alt": "konironiakogarete",
         "title": "紺色に憧れて",
@@ -88,16 +158,6 @@
         "comment": "青春的明快与活力"
       },
       {
-        "image": "asstes/shinra-bansho_tsukimade1byochotto.jpg",
-        "alt": "tsukimade",
-        "title": "月まで1秒ちょっと",
-        "artist": "森羅万象",
-        "trkno": 2,
-        "album": "夜間飛行",
-        "year": 2021,
-        "comment": "我这个人很简单, 你给我听ayo我就会似\n听一辈子J-Pop"
-      },
-      {
         "image": "asstes/astluna_somedayinthatsummer.jpg",
         "alt": "somedayinthatsummer",
         "title": "あの夏のいつかは (2023 Ver.)",
@@ -106,6 +166,66 @@
         "album": "Single",
         "year": 2023,
         "comment": "夏曲唯一真神"
+      },
+      {
+        "image": "asstes/alstrcds_flashlight.jpg",
+        "alt": "badapple2014",
+        "title": "Bad Apple!! feat. nomico (2014 Refix)",
+        "artist": "Alstroemeria Records, nomico",
+        "trkno": 9,
+        "album": "FLASHLIGHT",
+        "year": 2014,
+        "comment": "老东西怎么还没听腻\n初版Lovelight (2007)"
+      },
+      {
+        "image": "asstes/syncarts_cantante.jpg",
+        "alt": "",
+        "title": "エピクロスの虹はもう見えない",
+        "artist": "SYNC.ART'S, Misato",
+        "trkno": 4,
+        "album": "Cantante-カンタンテ-",
+        "year": 2017,
+        "comment": "初版CHAOS (2007)"
+      },
+      {
+        "image": "asstes/tayori_alittlebirdtoldme.jpg",
+        "alt": "alittlebirdtoldme",
+        "title": "風のたより",
+        "artist": "tayori",
+        "trkno": 0,
+        "album": "Single",
+        "year": 2023,
+        "comment": "柔和, 追忆, 写意, 硬控四分钟\n但是你们怎么后续就拿不出这个水平的编曲了"
+      },
+      {
+        "image": "asstes/tayori _hoshininaru.jpg",
+        "alt": "hoshininaru",
+        "title": "星になる",
+        "artist": "tayori",
+        "trkno": 0,
+        "album": "Single",
+        "year": 2023,
+        "comment": ""
+      },
+      {
+        "image": "asstes/shinra-bansho_tsukimade1byochotto.jpg",
+        "alt": "tsukimade",
+        "title": "月まで1秒ちょっと",
+        "artist": "森羅万象",
+        "trkno": 2,
+        "album": "夜間飛行",
+        "year": 2021,
+        "comment": "我这个人很简单, 你给我听ayo我就会似\n编曲薄了点\n听一辈子J-Pop"
+      },
+      {
+        "image": "asstes/asaka_sakura.jpg",
+        "alt": "sakurakakushi",
+        "title": "桜隠し",
+        "artist": "A.SAKA",
+        "trkno": 3,
+        "album": "神楽ノ桜",
+        "year": 2022,
+        "comment": "安静的纯音, 也没有过于舒缓"
       },
       {
         "image": "asstes/suisei_bibidiba.jpg",
@@ -135,10 +255,10 @@
         "trkno": 11,
         "album": "幺樂団の歴史 1～ Akyu's Untouched Score vol.1",
         "year": 2006,
-        "comment": "不同于部分原曲只有作曲含金量够高, 本曲编曲上也有着非常高的完成度\n其实MIDI音色不够完美, 频谱的覆盖上并不广, 但是天才的编曲居然回避了不少问题"
+        "comment": "不同于部分原曲含金量只体现在作曲, 本曲编曲上也有着非常高的完成度\n其实MIDI音色不够完美, 频谱的覆盖上并不广, 但是天才居然利用足够亮的编曲回避了不少问题"
       },
       {
-        "image": "asstes/arc_memoddreams.jpg",
+        "image": "asstes/arc_memofdreams.jpg",
         "alt": "besidesyouext",
         "title": "Beside You (Extended ver.)",
         "artist": "江口孝宏",
