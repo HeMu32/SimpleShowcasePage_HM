@@ -69,13 +69,17 @@ function createCardElement(cardData) {
 
     const titleText = document.createElement('div');
     titleText.className = 'text-content';
-    titleText.style.whiteSpace = 'pre-wrap'; // 保持换行符
-    const lines = cardData.title_text.split('\n');
-    if (lines.length > 0) {
-        titleText.innerHTML = `<strong>${lines[0]}</strong>` + (lines.length > 1 ? lines.slice(1).join('\n') : '');
-    } else {
-        titleText.textContent = '';
+    
+    const title = `<strong>${cardData.title}</strong>`;
+    const artist = cardData.artist;
+    
+    let line3 = '';
+    if (cardData.trkno > 0) {
+        line3 += `#${cardData.trkno}, `;
     }
+    line3 += `<i>${cardData.album}</i> (${cardData.year})`;
+
+    titleText.innerHTML = `<div>${title}</div><div>${artist}</div><div>${line3}</div>`;
     textWrapper.appendChild(titleText);
 
     const comment = document.createElement('div');
@@ -91,7 +95,7 @@ function createCardElement(cardData) {
 document.addEventListener('DOMContentLoaded', () => {
     const mainContainer = document.body;
 
-    fetch('asstes/page1_data.json')
+    fetch('asstes/page1_data.new.json')
         .then(response => response.json())
         .then(data => {
             data.forEach(sectionData => {
