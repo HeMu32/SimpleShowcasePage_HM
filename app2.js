@@ -1,3 +1,12 @@
+const FALLBACK_IMAGE_DATA_URI =
+    'data:image/svg+xml;charset=UTF-8,' +
+    encodeURIComponent(`
+        <svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320">
+            <text class="txt" x="32" y="88">图片无法加载</text>
+            <text class="txt" x="32" y="118" font-size="12">请检查外链或网络设置</text>
+        </svg>
+    `.replace(/\s+/g, ' ').trim());
+
 function applyImageShadow(imgElement) {
     imgElement.onload = () => {
         try {
@@ -48,6 +57,11 @@ function applyImageShadow(imgElement) {
     };
 
     imgElement.onerror = () => {
+        if (!imgElement.dataset.fallbackApplied) {
+            imgElement.dataset.fallbackApplied = 'true';
+            imgElement.src = FALLBACK_IMAGE_DATA_URI;
+            return;
+        }
         console.error('图片加载失败，使用默认黑色阴影。');
         imgElement.style.boxShadow = '0 4px 8px rgba(0, 0, 0, 0.5)';
     };
@@ -58,6 +72,9 @@ function createCardElement(cardData) {
     card.className = 'v-card';
 
     const img = document.createElement('img');
+    img.referrerPolicy = 'no-referrer';
+    // 移除 crossOrigin 以避免不支持 CORS 的服务器阻塞图片加载
+    // img.crossOrigin = 'anonymous';
     img.src = cardData.image;
     img.alt = cardData.alt;
     card.appendChild(img);

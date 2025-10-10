@@ -40,7 +40,7 @@
         "trkno": 2,
         "album": "天国",
         "year": 2025,
-        "comment": "憋了这么久果然劲大"
+        "comment": "憋了这么久果然劲大\n平心而论混音其实有点乱"
       },
       {
         "image": "asstes/maisondes_aiwanna.jpg",
@@ -96,6 +96,16 @@
         "album": "幻想フォークロア -illusion folklore-",
         "year": 2011,
         "comment": "厚重, 丰富, 情绪强烈的民乐改编"
+      },
+      {
+        "image": "asstes/arc_memofdreams.jpg",
+        "alt": "melodyoflove",
+        "title": "迷える音色は恋の唄",
+        "artist": "からとPαnchii ft. はるの",
+        "trkno": 1,
+        "album": "Arcaea Sound Collection: Memories of Dreams",
+        "year": 2021,
+        "comment": "为什么没有Extended Mix T_T"
       },
       {
         "image": "asstes/pikasonic_flyingcat.jpg",
@@ -175,13 +185,13 @@
         "trkno": 9,
         "album": "FLASHLIGHT",
         "year": 2014,
-        "comment": "老东西怎么还没听腻\n初版Lovelight (2007)"
+        "comment": "这老东西我怎么还没听腻\n初版Lovelight (2007)"
       },
       {
         "image": "asstes/syncarts_cantante.jpg",
         "alt": "",
         "title": "エピクロスの虹はもう見えない",
-        "artist": "SYNC.ART'S, Misato",
+        "artist": "SYNC.ART'S ft. Misato",
         "trkno": 4,
         "album": "Cantante-カンタンテ-",
         "year": 2017,
@@ -198,7 +208,7 @@
         "comment": "柔和, 追忆, 写意, 硬控四分钟\n但是你们怎么后续就拿不出这个水平的编曲了"
       },
       {
-        "image": "asstes/tayori _hoshininaru.jpg",
+        "image": "asstes/tayori_hoshininaru.jpg",
         "alt": "hoshininaru",
         "title": "星になる",
         "artist": "tayori",
