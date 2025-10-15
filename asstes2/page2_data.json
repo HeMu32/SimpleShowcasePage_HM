@@ -18,7 +18,7 @@
         "image": "https://upload.thbwiki.cc/thumb/2/2b/%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/300px-%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png",
         "alt": "koishi_thwiki",
         "title_text": "古明地 恋",
-        "comment": "无意识似乎是个莫名吸引的点\n(但是人设上好像有点危险啊)"
+        "comment": "无意识似乎是个莫名吸引的点\n(人设上好像又有点危险)"
       },
       {
         "image": "https://upload.thbwiki.cc/thumb/a/af/%E7%88%B1%E4%B8%BD%E4%B8%9D%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/300px-%E7%88%B1%E4%B8%BD%E4%B8%9D%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png",
@@ -29,7 +29,7 @@
       {
         "image": "https://upload.thbwiki.cc/thumb/2/26/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/300px-%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png",
         "alt": "sanae_thwiki",
-        "title_text": "东风谷 早苗 (草苗?)",
+        "title_text": "东风谷 草(?)早苗 ",
         "comment": "莫名有亲和力 (?)"
       },
       {
@@ -215,16 +215,40 @@
     "title": "啤酒烧烤 / Project SEKAI",
     "cards": [
       {
-        "image": "https://via.placeholder.com/200",
-        "alt": "Pic 6",
-        "title_text": "Text 6.1",
-        "comment": "Text 6.2"
+        "image": "https://storage.sekai.best/sekai-jp-assets/character/character_trim/chr_trim_2.webp",
+        "alt": "saki",
+        "title_text": "天马 咲希",
+        "comment": "不是那个saki酱"
+      },
+      {
+        "image": "https://storage.sekai.best/sekai-jp-assets/character/character_trim/chr_trim_1.webp",
+        "alt": "ichika",
+        "title_text": "星乃 一歌",
+        "comment": "Text 1"
+      },
+      {
+        "image": "https://storage.sekai.best/sekai-jp-assets/character/character_trim/chr_trim_6.webp",
+        "alt": "haruka",
+        "title_text": "桐谷 遥",
+        "comment": "Text 4"
+      },
+      {
+        "image": "https://storage.sekai.best/sekai-jp-assets/character/character_trim/chr_trim_7.webp",
+        "alt": "airi",
+        "title_text": "桃井 爱莉",
+        "comment": "Text 5"
       },
       {
         "image": "https://via.placeholder.com/200",
         "alt": "Pic 7",
         "title_text": "Text 7.1",
-        "comment": "Text 7.2"
+        "comment": "Text 1"
+      },
+      {
+        "image": "https://via.placeholder.com/200",
+        "alt": "Pic 7",
+        "title_text": "Text 7.1",
+        "comment": "Text 4"
       }
     ]
   },
