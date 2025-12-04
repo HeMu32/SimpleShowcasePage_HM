@@ -4,13 +4,13 @@
     "cards": [
       {
         "image": "asstes/asu_asu.jpg",
-        "alt": "delay",
-        "title": "スロウリー",
+        "alt": "asu_slowly",
+        "title": "スロウリー - Slowly",
         "artist": "明透",
         "trkno": 2,
         "album": "ASU",
         "year": 2023,
-        "comment": "很上头的感觉就是, 说不上来啥就是想听"
+        "comment": "很上头的感觉就是, 说不上来啥就是想听\n可能是掺了冰"
       },
       {
         "image": "asstes/mayn_15colors.jpg",
@@ -20,7 +20,7 @@
         "trkno": 4,
         "album": "15Colors -nu skool-",
         "year": 2020,
-        "comment": "虽然Vocal不是最喜欢的类型, 但是总体上钢琴沙锤啥的搭起来, 是耳目一新的感觉, 可能是平常Bass听多了\n编曲比米米一般的V曲丰富一些, 米米最好了\n多换几行测试\n多换几行\n多换几行"
+        "comment": "虽然Vocal不是最喜欢的类型, 但是总体上钢琴沙锤啥的搭起来, 是耳目一新的感觉, 可能是平常Bass听多了\n编曲比米米一般的V曲丰富一些"
       },
       {
         "image": "asstes/suisei_kireigoto.jpg",
@@ -33,6 +33,16 @@
         "comment": "劲"
       },
       {
+        "image": "asstes/ciel_kuusoushoujo.jpg",
+        "alt": "kuuchuusampo",
+        "title": "空中散歩",
+        "artist": "CIEL",
+        "trkno": 0,
+        "album": "Single",
+        "year": 2023,
+        "comment": ""
+      },
+      {
         "image": "asstes/shinra-bansho_tengoku.jpg",
         "alt": "tengoku",
         "title": "神様の暇潰し",
@@ -40,7 +50,7 @@
         "trkno": 2,
         "album": "天国",
         "year": 2025,
-        "comment": "憋了这么久果然劲大\n平心而论混音其实有点乱"
+        "comment": "憋了这么久发的鸽果然劲大\n平心而论混音其实有点乱"
       },
       {
         "image": "asstes/hanabasamikyo_petrichor.jpg",
@@ -53,14 +63,34 @@
         "comment": ""
       },
       {
-        "image": "asstes/maisondes_aiwanna.jpg",
-        "alt": "aiwanna",
-        "title": "アイワナムチュー",
-        "artist": "MAISONdes",
+        "image": "asstes/maedajun_shuuwarinowaku.jpg",
+        "alt": "shuuwarinowaku",
+        "title": "終わりの世界から",
+        "artist": "麻枝准 ft. やなぎなぎ",
+        "trkno": 1,
+        "album": "終わりの惑星のLove Song",
+        "year": 2012,
+        "comment": ""
+      },
+      {
+        "image": "asstes/pikasonic_eosummer.jpg",
+        "alt": "endofsummer",
+        "title": "夏が終わる - End of the Summer",
+        "artist": "Nanastukaze",
         "trkno": 0,
         "album": "Single",
+        "year": 2024,
+        "comment": "最近的其他曲都堆高音去了\n还是这种稍微克制一点还带点电的喜欢"
+      },
+      {
+        "image": "asstes/asu_asu.jpg",
+        "alt": "soragoto",
+        "title": "ソラゴト",
+        "artist": "明透",
+        "trkno": 11,
+        "album": "ASU",
         "year": 2023,
-        "comment": ""
+        "comment": "不愧是明透舒适区, 有点耐汀过头了"
       },
       {
         "image": "asstes/rd-sounds_manima.jpg",
@@ -71,6 +101,56 @@
         "album": "随",
         "year": 2017,
         "comment": "史诗一样的曲子"
+      },
+      {
+        "image": "asstes/tayori_enrai.jpg",
+        "alt": "enrai",
+        "title": "遠雷 - Distant Thunder",
+        "artist": "tayori",
+        "trkno": 0,
+        "album": "Single",
+        "year": 2025,
+        "comment": "汀得醉晕晕地一种懵懵的舒适...\n混音掉大分, isui的声音怎么可以这么出戏"
+      },
+      {
+        "image": "asstes/syncarts_cantante.jpg",
+        "alt": "YainKouyuuwa",
+        "title": "夜陰口遊は",
+        "artist": "SYNC.ART'S ft. Misato",
+        "trkno": 5,
+        "album": "cantante-カンタンテ-",
+        "year": 2017,
+        "comment": ""
+      },
+      {
+        "image": "asstes/syncarts_cantante.jpg",
+        "alt": "rondo",
+        "title": "Rondo of fantasy",
+        "artist": "SYNC.ART'S ft. Misato",
+        "trkno": 6,
+        "album": "cantante-カンタンテ-",
+        "year": 2017,
+        "comment": ""
+      },
+      {
+        "image": "asstes/",
+        "alt": "",
+        "title": "",
+        "artist": "",
+        "trkno": 0,
+        "album": "Single",
+        "year": 20,
+        "comment": ""
+      },
+      {
+        "image": "asstes/maisondes_aiwanna.jpg",
+        "alt": "aiwanna",
+        "title": "アイワナムチュー",
+        "artist": "MAISONdes, asmi, すりぃ",
+        "trkno": 0,
+        "album": "Single",
+        "year": 2023,
+        "comment": ""
       }
     ]
   },
@@ -78,28 +158,18 @@
     "title": "非本年",
     "cards": [
       {
-        "image": "asstes/zytokine_roundabout.jpg",
-        "alt": "roundabout_zytokine",
-        "title": "roundabout",
-        "artist": "隣人, 高橋菜々, aki, 絃鳥, 坂上なち",
-        "trkno": 14,
-        "album": "THNQ -THE BEST of ZYTOKINE/CYTOKINE-",
-        "year": 2017,
-        "comment": "编曲充实, 长度管饱"
-      },
-      {
         "image": "asstes/albemuth_eve.jpg",
         "alt": "atthemidnightsun",
-        "title": "白夜にて",
+        "title": "白夜にて - At the Midnight Sun",
         "artist": "Albemuth ft. 雄之助",
         "trkno": 6,
         "album": "eve",
         "year": 2023,
-        "comment": "惊艳且充实的编曲, 人声细节到位\n可惜存流走了组合没了"
+        "comment": "惊艳且充实的编曲, 人声细节到位\n我存流呢? 啊? 我存流呢?"
       },
       {
         "image": "asstes/aquastyle_illusion.jpg",
-        "alt": "roundabout_zytokine",
+        "alt": "aquastyle_lostdays",
         "title": "それは失われた日々",
         "artist": "AQUA STYLE",
         "trkno": 3,
@@ -110,7 +180,7 @@
       {
         "image": "asstes/arc_memofdreams.jpg",
         "alt": "melodyoflove",
-        "title": "迷える音色は恋の唄",
+        "title": "迷える音色は恋の唄 - A Wandering Melody of Love",
         "artist": "からとPαnchii ft. はるの",
         "trkno": 1,
         "album": "Arcaea Sound Collection: Memories of Dreams",
@@ -120,7 +190,7 @@
       {
         "image": "asstes/pikasonic_flyingcat.jpg",
         "alt": "flyingcat",
-        "title": "空飛ぶ猫",
+        "title": "空飛ぶ猫 - Flying Cat",
         "artist": "Nanastukaze",
         "trkno": 0,
         "album": "Single",
@@ -130,7 +200,7 @@
       {
         "image": "asstes/pikasonic_replay.jpg",
         "alt": "replay",
-        "title": "再生",
+        "title": "再生 - Replay",
         "artist": "Nanastukaze",
         "trkno": 0,
         "album": "Single",
@@ -140,7 +210,7 @@
       {
         "image": "asstes/pikasonic_hazymoon.jpg",
         "alt": "hazymoonnight",
-        "title": "朧月夜",
+        "title": "朧月夜 - Hazymoon Night",
         "artist": "Nanastukaze",
         "trkno": 0,
         "album": "Single",
@@ -155,7 +225,7 @@
         "trkno": 0,
         "album": "Single",
         "year": 2020,
-        "comment": "和上面的胧月夜居然很相合"
+        "comment": "和上面的胧月夜居然比较相合"
       },
       {
         "image": "asstes/pikasonic_asuka.jpg",
@@ -175,17 +245,27 @@
         "trkno": 1,
         "album": "紺色に憧れて",
         "year": 2024,
-        "comment": "青春的明快与活力"
+        "comment": "青春奔放的明快与活力"
       },
       {
         "image": "asstes/astluna_somedayinthatsummer.jpg",
         "alt": "somedayinthatsummer",
-        "title": "あの夏のいつかは (2023 Ver.)",
+        "title": "あの夏のいつかは (2023 Ver.) - Someday in that Summer",
         "artist": "*Luna, ねんね",
         "trkno": 0,
         "album": "Single",
         "year": 2023,
         "comment": "夏曲唯一真神"
+      },
+      {
+        "image": "asstes/zytokine_roundabout.jpg",
+        "alt": "roundabout_zytokine",
+        "title": "roundabout",
+        "artist": "隣人, 高橋菜々, aki, 絃鳥, 坂上なち",
+        "trkno": 14,
+        "album": "THNQ -THE BEST of ZYTOKINE/CYTOKINE-",
+        "year": 2017,
+        "comment": "编曲充实, 长度管饱\n欸...这个风格的曲子你们真准备只作这一首吗"
       },
       {
         "image": "asstes/alstrcds_flashlight.jpg",
@@ -200,7 +280,7 @@
       {
         "image": "asstes/syncarts_cantante.jpg",
         "alt": "",
-        "title": "エピクロスの虹はもう見えない",
+        "title": "エピクロスの虹はもう見えない - Hidden Rainbows of Epicurus",
         "artist": "SYNC.ART'S ft. Misato",
         "trkno": 4,
         "album": "Cantante-カンタンテ-",
@@ -210,7 +290,7 @@
       {
         "image": "asstes/tayori_alittlebirdtoldme.jpg",
         "alt": "alittlebirdtoldme",
-        "title": "風のたより",
+        "title": "風のたより - A Little Bird Told Me",
         "artist": "tayori",
         "trkno": 0,
         "album": "Single",
@@ -221,11 +301,21 @@
         "image": "asstes/tayori_hoshininaru.jpg",
         "alt": "hoshininaru",
         "title": "星になる",
-        "artist": "tayori",
+        "artist": "Islet, isui",
         "trkno": 0,
         "album": "Single",
         "year": 2023,
         "comment": ""
+      },
+      {
+        "image": "asstes/rd-sounds_kurami.jpg",
+        "alt": "NIMBUS",
+        "title": "NIMBUS",
+        "artist": "凋叶棕",
+        "trkno": 1,
+        "album": "眩",
+        "year": 2024,
+        "comment": "一听到就安静下来了..."
       },
       {
         "image": "asstes/shinra-bansho_tsukimade1byochotto.jpg",
@@ -250,7 +340,7 @@
       {
         "image": "asstes/suisei_bibidiba.jpg",
         "alt": "bibidiba",
-        "title": "ビビデバ",
+        "title": "ビビデバ - 匕匕亏八",
         "artist": "星街すいせい",
         "trkno": 0,
         "album": "Single",
@@ -258,8 +348,18 @@
         "comment": "BIBBIDI BOBBIDI BOOWA"
       },
       {
+        "image": "asstes/sodamint_lostmem.jpg",
+        "alt": "lostmem",
+        "title": "Lost Memory",
+        "artist": "Soda Mint, Junple",
+        "trkno": 0,
+        "album": "Single",
+        "year": 2019,
+        "comment": ""
+      },
+      {
         "image": "asstes/aquastyle_illusion.jpg",
-        "alt": "roundabout_zytokine",
+        "alt": "aquastyle_wilderness_2",
         "title": "荒野の果てで…",
         "artist": "AQUA STYLE",
         "trkno": 8,
@@ -268,7 +368,17 @@
         "comment": "厚重, 丰富, 情绪强烈的民乐改编"
       },
       {
-        "image": "asstes/shanghaialice_akyusuntoched.jpg",
+        "image": "asstes/th_imp_night.jpg",
+        "alt": "dreambattle",
+        "title": "少女綺想曲 ～ Dream Battle",
+        "artist": "上海アリス幻樂団",
+        "trkno": 9,
+        "album": "東方永夜抄～Imperishable Night. サウンドトラック",
+        "year": 2004,
+        "comment": "爆!"
+      },
+      {
+        "image": "asstes/th_akyusuntoched.jpg",
         "alt": "casketofstars",
         "title": "星の器 ～ Casket of Star",
         "artist": "上海アリス幻樂団",
