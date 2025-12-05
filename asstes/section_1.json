@@ -1,0 +1,305 @@
+{
+  "title": "非本年",
+  "cards": [
+    {
+      "image": "asstes/albemuth_eve.jpg",
+      "alt": "atthemidnightsun",
+      "title": "白夜にて - At the Midnight Sun",
+      "artist": "Albemuth ft. 雄之助",
+      "trkno": 6,
+      "album": "eve",
+      "year": 2023,
+      "comment": "惊艳且充实的编曲, 人声细节到位\n我存流呢? 啊? 我存流呢?"
+    },
+    {
+      "image": "asstes/aquastyle_illusion.jpg",
+      "alt": "aquastyle_lostdays",
+      "title": "それは失われた日々",
+      "artist": "AQUA STYLE",
+      "trkno": 3,
+      "album": "幻想フォークロア -illusion folklore-",
+      "year": 2011,
+      "comment": "厚重, 丰富, 情绪强烈的民乐改编\nth11-05"
+    },
+    {
+      "image": "asstes/arc_memofdreams.jpg",
+      "alt": "melodyoflove",
+      "title": "迷える音色は恋の唄 - A Wandering Melody of Love",
+      "artist": "からとPαnchii ft. はるの",
+      "trkno": 1,
+      "album": "Arcaea Sound Collection: Memories of Dreams",
+      "year": 2021,
+      "comment": "为什么没有Extended Mix T_T"
+    },
+    {
+      "image": "asstes/pikasonic_flyingcat.jpg",
+      "alt": "flyingcat",
+      "title": "空飛ぶ猫 - Flying Cat",
+      "artist": "Nanastukaze",
+      "trkno": 0,
+      "album": "Single",
+      "year": 2024,
+      "comment": "24年还是吃太好了"
+    },
+    {
+      "image": "asstes/pikasonic_replay.jpg",
+      "alt": "replay",
+      "title": "再生 - Replay",
+      "artist": "Nanastukaze",
+      "trkno": 0,
+      "album": "Single",
+      "year": 2024,
+      "comment": "路转粉只需要一秒\n夏曲半神吧, 真神让给楼下了"
+    },
+    {
+      "image": "asstes/astluna_somedayinthatsummer.jpg",
+      "alt": "somedayinthatsummer",
+      "title": "あの夏のいつかは (2023 Ver.) - Someday in that Summer",
+      "artist": "*Luna, ねんね",
+      "trkno": 0,
+      "album": "Single",
+      "year": 2023,
+      "comment": "夏曲唯一真神"
+    },
+    {
+      "image": "asstes/pikasonic_hazymoon.jpg",
+      "alt": "hazymoonnight",
+      "title": "朧月夜 - Hazy Moon Night",
+      "artist": "Nanastukaze",
+      "trkno": 0,
+      "album": "Single",
+      "year": 2023,
+      "comment": ""
+    },
+    {
+      "image": "asstes/pikasonic_wildflowers.jpg",
+      "alt": "wildflowers",
+      "title": "Wildflowers",
+      "artist": "PIKASONIC",
+      "trkno": 0,
+      "album": "Single",
+      "year": 2020,
+      "comment": "和上面的胧月夜居然比较相合"
+    },
+    {
+      "image": "asstes/pikasonic_asuka.jpg",
+      "alt": "pika_asuka",
+      "title": "Asuka",
+      "artist": "PIKASONIC",
+      "trkno": 0,
+      "album": "Single",
+      "year": 2018,
+      "comment": "梦开始的地方 (?)"
+    },
+    {
+      "image": "asstes/yuika_konironiakogarete.jpg",
+      "alt": "konironiakogarete",
+      "title": "紺色に憧れて - Longing for navy blue",
+      "artist": "『ユイカ』",
+      "trkno": 1,
+      "album": "紺色に憧れて",
+      "year": 2024,
+      "comment": "青春奔放的明快与活力"
+    },
+    {
+      "image": "asstes/hibana_bluecontrast.jpg",
+      "alt": "bluecontrast",
+      "title": "青色コントラスト - Blue Contrast",
+      "artist": "ヒバナ",
+      "trkno": 0,
+      "album": "Single",
+      "year": 2023,
+      "comment": ""
+    },
+    {
+      "image": "asstes/",
+      "alt": "",
+      "title": "めんたいコズミック",
+      "artist": "Yunomi ft. nicamoq",
+      "trkno": 1,
+      "album": "ゆのもきゅ",
+      "year": 2017,
+      "comment": ""
+    },
+    {
+      "image": "asstes/",
+      "alt": "",
+      "title": "ハッピーライフ",
+      "artist": "Yunomi ft. nicamoq",
+      "trkno": 17,
+      "album": "ゆのもきゅ",
+      "year": 2017,
+      "comment": ""
+    },
+    {
+      "image": "asstes/zytokine_roundabout.jpg",
+      "alt": "roundabout_zytokine",
+      "title": "roundabout",
+      "artist": "隣人, 高橋菜々, aki, 絃鳥, 坂上なち",
+      "trkno": 14,
+      "album": "THNQ -THE BEST of ZYTOKINE/CYTOKINE-",
+      "year": 2017,
+      "comment": "编曲充实, 长度管饱\n欸...这个风格的曲子你们真准备只作这一首吗\nhr01-13"
+    },
+    {
+      "image": "asstes/alstrcds_flashlight.jpg",
+      "alt": "badapple2014",
+      "title": "Bad Apple!! feat. nomico (2014 Refix)",
+      "artist": "Alstroemeria Records, nomico",
+      "trkno": 9,
+      "album": "FLASHLIGHT",
+      "year": 2014,
+      "comment": "这老东西我怎么还没听腻\nth04-07, 初版Lovelight (2007)"
+    },
+    {
+      "image": "asstes/syncarts_cantante.jpg",
+      "alt": "",
+      "title": "エピクロスの虹はもう見えない - Hidden Rainbows of Epicurus",
+      "artist": "SYNC.ART'S ft. Misato",
+      "trkno": 4,
+      "album": "Cantante-カンタンテ-",
+      "year": 2017,
+      "comment": "th06-06, 初版CHAOS (2007)"
+    },
+    {
+      "image": "asstes/",
+      "alt": "firststorm",
+      "title": "初岚 ～ First Storm",
+      "artist": "DECO*27",
+      "trkno": 0,
+      "album": "Single",
+      "year": 2017,
+      "comment": "这是什么, 跌扣, 汀一遍\n这是什么, 大葱, 汀一遍\n这是什么, V4C, 汀一遍"
+    },
+    {
+      "image": "asstes/tayori_alittlebirdtoldme.jpg",
+      "alt": "alittlebirdtoldme",
+      "title": "風のたより - A Little Bird Told Me",
+      "artist": "tayori",
+      "trkno": 0,
+      "album": "Single",
+      "year": 2023,
+      "comment": "柔和, 追忆, 写意, 硬控四分钟\n但是你们怎么后续就拿不出这个水平的编曲了"
+    },
+    {
+      "image": "asstes/tayori_hoshininaru.jpg",
+      "alt": "hoshininaru",
+      "title": "星になる",
+      "artist": "Islet, isui",
+      "trkno": 0,
+      "album": "Single",
+      "year": 2023,
+      "comment": ""
+    },
+    {
+      "image": "asstes/",
+      "alt": "",
+      "title": "童遊",
+      "artist": "凋叶棕, めらみぽっぷ",
+      "trkno": 13,
+      "album": "望",
+      "year": 2014,
+      "comment": "最高!\nhr03-01"
+    },
+    {
+      "image": "asstes/rd-sounds_kurami.jpg",
+      "alt": "NIMBUS",
+      "title": "NIMBUS",
+      "artist": "凋叶棕",
+      "trkno": 1,
+      "album": "眩",
+      "year": 2024,
+      "comment": "一听到就安静下来了...\nth04-11"
+    },
+    {
+      "image": "asstes/",
+      "alt": "anticipateddream",
+      "title": "未だ知られぬ物語 ～ Anticipated Dream",
+      "artist": "凋叶棕",
+      "trkno": 10,
+      "album": "薦",
+      "year": 2013,
+      "comment": ""
+    },
+    {
+      "image": "asstes/shinra-bansho_tsukimade1byochotto.jpg",
+      "alt": "tsukimade",
+      "title": "月まで1秒ちょっと",
+      "artist": "森羅万象",
+      "trkno": 2,
+      "album": "夜間飛行",
+      "year": 2021,
+      "comment": "我这个人很简单, 你给我听ayo我就会似\n编曲薄了点\n听一辈子J-Pop\nth13-08"
+    },
+    {
+      "image": "asstes/whitercd_theunattended.jpg",
+      "alt": "morinokuni",
+      "title": "杜の国 - Mori no Kuni",
+      "artist": "Blacklolita",
+      "trkno": 24,
+      "album": "The Unattended",
+      "year": 2022,
+      "comment": "第一印象够好又足够耐听\n挺意外能在二刺猿专辑听到, 动态如果给多点可能会听着更爽"
+    },
+    {
+      "image": "asstes/asaka_sakura.jpg",
+      "alt": "sakurakakushi",
+      "title": "桜隠し",
+      "artist": "A.SAKA",
+      "trkno": 3,
+      "album": "神楽ノ桜",
+      "year": 2022,
+      "comment": "安静的纯音, 也没有过于舒缓"
+    },
+    {
+      "image": "asstes/suisei_bibidiba.jpg",
+      "alt": "bibidiba",
+      "title": "ビビデバ - 匕匕亏八",
+      "artist": "星街すいせい",
+      "trkno": 0,
+      "album": "Single",
+      "year": 2023,
+      "comment": "BIBBIDI BOBBIDI BOOWA"
+    },
+    {
+      "image": "asstes/aquastyle_illusion.jpg",
+      "alt": "aquastyle_wilderness_2",
+      "title": "荒野の果てで…",
+      "artist": "AQUA STYLE",
+      "trkno": 8,
+      "album": "幻想フォークロア -illusion folklore-",
+      "year": 2011,
+      "comment": "厚重, 丰富, 情绪强烈的民乐改编\nth07-01"
+    },
+    {
+      "image": "asstes/th_imp_night.jpg",
+      "alt": "dreambattle",
+      "title": "少女綺想曲 ～ Dream Battle",
+      "artist": "上海アリス幻樂団",
+      "trkno": 9,
+      "album": "東方永夜抄～Imperishable Night. サウンドトラック",
+      "year": 2004,
+      "comment": "爆! (指一种任何改编都无法企及的权威)"
+    },
+    {
+      "image": "asstes/th_akyusuntoched.jpg",
+      "alt": "casketofstars",
+      "title": "星の器 ～ Casket of Star",
+      "artist": "上海アリス幻樂団",
+      "trkno": 11,
+      "album": "幺樂団の歴史 1～ Akyu's Untouched Score vol.1",
+      "year": 2006,
+      "comment": "不同于部分原曲含金量只体现在作曲, 本曲编曲上也有着非常高的完成度\n其实MIDI音色不够完美, 频谱的覆盖上并不广, 但是足够亮的编曲回避了不少问题"
+    },
+    {
+      "image": "asstes/arc_memofdreams.jpg",
+      "alt": "besidesyouext",
+      "title": "Beside You (Extended ver.)",
+      "artist": "江口孝宏",
+      "trkno": 25,
+      "album": "Arcaea Sound Collection: Memories of Dreams",
+      "year": 2021,
+      "comment": ""
+    }
+  ]
+}

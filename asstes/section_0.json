@@ -1,0 +1,175 @@
+{
+  "title": "本年",
+  "cards": [
+    {
+      "image": "asstes/asu_asu.jpg",
+      "alt": "asu_slowly",
+      "title": "スロウリー - Slowly",
+      "artist": "明透",
+      "trkno": 2,
+      "album": "ASU",
+      "year": 2023,
+      "comment": "很上头的感觉就是, 可能是掺了冰"
+    },
+    {
+      "image": "asstes/mayn_15colors.jpg",
+      "alt": "jinseishinko",
+      "title": "人生進行形",
+      "artist": "May'n ft. MIMI",
+      "trkno": 4,
+      "album": "15Colors -nu skool-",
+      "year": 2020,
+      "comment": "虽然Vocal不是最喜欢的类型, 但是总体上钢琴沙锤啥的搭起来, 是耳目一新的感觉, 可能是平常Bass听多了\n编曲比米米一般的V曲丰富一些"
+    },
+    {
+      "image": "asstes/suisei_kireigoto.jpg",
+      "alt": "kireigoto",
+      "title": "綺麗事",
+      "artist": "星街すいせい",
+      "trkno": 11,
+      "album": "新星目録",
+      "year": 2025,
+      "comment": "劲"
+    },
+    {
+      "image": "asstes/ciel_kuusoushoujo.jpg",
+      "alt": "kuuchuusampo",
+      "title": "空中散歩",
+      "artist": "CIEL ft. MIMI",
+      "trkno": 0,
+      "album": "Single",
+      "year": 2023,
+      "comment": ""
+    },
+    {
+      "image": "asstes/shinra-bansho_tengoku.jpg",
+      "alt": "tengoku",
+      "title": "神様の暇潰し",
+      "artist": "森羅万象",
+      "trkno": 2,
+      "album": "天国",
+      "year": 2025,
+      "comment": "憋了这么久发的鸽果然劲大\n平心而论混音其实有点乱\nth15-17"
+    },
+    {
+      "image": "asstes/hanabasamikyo_petrichor.jpg",
+      "alt": "starry_kyo",
+      "title": "Starry",
+      "artist": "花鋏キョウ",
+      "trkno": 2,
+      "album": "Petrichor",
+      "year": 2021,
+      "comment": ""
+    },
+    {
+      "image": "asstes/maedajun_shuuwarinowaku.jpg",
+      "alt": "shuuwarinowaku",
+      "title": "終わりの世界から",
+      "artist": "麻枝准 ft. やなぎなぎ",
+      "trkno": 1,
+      "album": "終わりの惑星のLove Song",
+      "year": 2012,
+      "comment": "群友歌单里捡的"
+    },
+    {
+      "image": "asstes/pikasonic_eosummer.jpg",
+      "alt": "endofsummer",
+      "title": "夏が終わる - End of the Summer",
+      "artist": "Nanastukaze",
+      "trkno": 0,
+      "album": "Single",
+      "year": 2024,
+      "comment": "最近的其他曲都堆高音去了\n还是这种稍微克制一点的舒服"
+    },
+    {
+      "image": "asstes/asu_asu.jpg",
+      "alt": "soragoto",
+      "title": "ソラゴト",
+      "artist": "明透",
+      "trkno": 11,
+      "album": "ASU",
+      "year": 2023,
+      "comment": "不愧是明透舒适区, 有点耐汀过头了"
+    },
+    {
+      "image": "asstes/",
+      "alt": "",
+      "title": "ひゅるりらぱっぱ",
+      "artist": "tuki.",
+      "trkno": 0,
+      "album": "Single",
+      "year": 2024,
+      "comment": ""
+    },
+    {
+      "image": "asstes/rd-sounds_manima.jpg",
+      "alt": "kazenoyukue",
+      "title": "かぜのゆくえ",
+      "artist": "凋叶棕 ft. nayuta",
+      "trkno": 14,
+      "album": "随",
+      "year": 2017,
+      "comment": "史诗一样的曲子\nfs01-01"
+    },
+    {
+      "image": "asstes/tayori_enrai.jpg",
+      "alt": "enrai",
+      "title": "遠雷 - Distant Thunder",
+      "artist": "tayori",
+      "trkno": 0,
+      "album": "Single",
+      "year": 2025,
+      "comment": "柔和, 追忆, 写意, 硬控四分钟\n混音掉大分, isui的声音怎么可以这么出戏"
+    },
+    {
+      "image": "asstes/syncarts_cantante.jpg",
+      "alt": "YainKouyuuwa",
+      "title": "夜陰口遊は",
+      "artist": "SYNC.ART'S ft. Misato",
+      "trkno": 5,
+      "album": "cantante-カンタンテ-",
+      "year": 2017,
+      "comment": "th08-04, 初版天つ風 (2008)"
+    },
+    {
+      "image": "asstes/syncarts_cantante.jpg",
+      "alt": "rondo",
+      "title": "Rondo of fantasy",
+      "artist": "SYNC.ART'S ft. Misato",
+      "trkno": 6,
+      "album": "cantante-カンタンテ-",
+      "year": 2017,
+      "comment": "hr02-02, 初版ソラとトキと二色のチョウ (2008)"
+    },
+    {
+      "image": "asstes/",
+      "alt": "tsukuyomi_mayday",
+      "title": "メデ - Mayday",
+      "artist": "月詠み",
+      "trkno": 0,
+      "album": "Single",
+      "year": 2022,
+      "comment": ""
+    },
+    {
+      "image": "asstes/",
+      "alt": "",
+      "title": "",
+      "artist": "",
+      "trkno": 0,
+      "album": "Single",
+      "year": 20,
+      "comment": ""
+    },
+    {
+      "image": "asstes/maisondes_aiwanna.jpg",
+      "alt": "aiwanna",
+      "title": "アイワナムチュー",
+      "artist": "MAISONdes, asmi, すりぃ",
+      "trkno": 0,
+      "album": "Single",
+      "year": 2023,
+      "comment": "还没来得及去听他们其他曲子"
+    }
+  ]
+}

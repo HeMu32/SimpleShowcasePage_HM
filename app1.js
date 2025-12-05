@@ -95,9 +95,14 @@ function createCardElement(cardData) {
 document.addEventListener('DOMContentLoaded', () => {
     const mainContainer = document.body;
 
-    fetch('asstes/page1_data.new.json')
+    fetch('asstes/list_index.json')
         .then(response => response.json())
-        .then(data => {
+        .then(urls => {
+            const promises = urls.map(url => fetch('asstes/' + url).then(r => r.json()));
+            return Promise.all(promises);
+        })
+        .then(jsons => {
+            const data = jsons.flat();
             data.forEach(sectionData => {
                 const section = document.createElement('section');
                 section.className = 'card-section';

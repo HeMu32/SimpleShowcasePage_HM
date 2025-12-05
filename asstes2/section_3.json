@@ -1,0 +1,23 @@
+{
+  "title": "阿卡一&&二 / Arcaea && InFalsus",
+  "cards": [
+    {
+      "image": "https://via.placeholder.com/200",
+      "alt": "Pic 6.0",
+      "title_text": "Kane",
+      "comment": "Text 6.0"
+    },
+    {
+      "image": "https://via.placeholder.com/200",
+      "alt": "Pic 6",
+      "title_text": "Saya",
+      "comment": "Text 6.2"
+    },
+    {
+      "image": "https://via.placeholder.com/200",
+      "alt": "Pic 7",
+      "title_text": "Text 7.1",
+      "comment": "Text 7.2"
+    }
+  ]
+}

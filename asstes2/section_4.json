@@ -1,0 +1,41 @@
+{
+  "title": "啤酒烧烤 / Project SEKAI",
+  "cards": [
+    {
+      "image": "https://storage.sekai.best/sekai-jp-assets/character/character_trim/chr_trim_2.webp",
+      "alt": "saki",
+      "title_text": "天马 咲希",
+      "comment": "不是那个saki酱"
+    },
+    {
+      "image": "https://storage.sekai.best/sekai-jp-assets/character/character_trim/chr_trim_1.webp",
+      "alt": "ichika",
+      "title_text": "星乃 一歌",
+      "comment": "Text 1"
+    },
+    {
+      "image": "https://storage.sekai.best/sekai-jp-assets/character/character_trim/chr_trim_6.webp",
+      "alt": "haruka",
+      "title_text": "桐谷 遥",
+      "comment": "Text 4"
+    },
+    {
+      "image": "https://storage.sekai.best/sekai-jp-assets/character/character_trim/chr_trim_7.webp",
+      "alt": "airi",
+      "title_text": "桃井 爱莉",
+      "comment": "Text 5"
+    },
+    {
+      "image": "https://via.placeholder.com/200",
+      "alt": "Pic 7",
+      "title_text": "Text 7.1",
+      "comment": "Text 1"
+    },
+    {
+      "image": "https://via.placeholder.com/200",
+      "alt": "Pic 7",
+      "title_text": "Text 7.1",
+      "comment": "Text 4"
+    }
+  ]
+}
