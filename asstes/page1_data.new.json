@@ -10,7 +10,7 @@
         "trkno": 2,
         "album": "ASU",
         "year": 2023,
-        "comment": "很上头的感觉就是, 说不上来啥就是想听\n可能是掺了冰"
+        "comment": "很上头的感觉就是, 可能是掺了冰"
       },
       {
         "image": "asstes/mayn_15colors.jpg",
@@ -36,7 +36,7 @@
         "image": "asstes/ciel_kuusoushoujo.jpg",
         "alt": "kuuchuusampo",
         "title": "空中散歩",
-        "artist": "CIEL",
+        "artist": "CIEL ft. MIMI",
         "trkno": 0,
         "album": "Single",
         "year": 2023,
@@ -70,7 +70,7 @@
         "trkno": 1,
         "album": "終わりの惑星のLove Song",
         "year": 2012,
-        "comment": ""
+        "comment": "群友歌单里捡的"
       },
       {
         "image": "asstes/pikasonic_eosummer.jpg",
@@ -80,7 +80,7 @@
         "trkno": 0,
         "album": "Single",
         "year": 2024,
-        "comment": "最近的其他曲都堆高音去了\n还是这种稍微克制一点还带点电的喜欢"
+        "comment": "最近的其他曲都堆高音去了\n还是这种稍微克制一点的舒服"
       },
       {
         "image": "asstes/asu_asu.jpg",
@@ -150,7 +150,7 @@
         "trkno": 0,
         "album": "Single",
         "year": 2023,
-        "comment": ""
+        "comment": "还没来得及去听他们其他曲子"
       }
     ]
   },
@@ -205,12 +205,22 @@
         "trkno": 0,
         "album": "Single",
         "year": 2024,
-        "comment": "路转粉只需要一秒"
+        "comment": "路转粉只需要一秒\n夏曲半神吧, 真神让给楼下了"
+      },
+      {
+        "image": "asstes/astluna_somedayinthatsummer.jpg",
+        "alt": "somedayinthatsummer",
+        "title": "あの夏のいつかは (2023 Ver.) - Someday in that Summer",
+        "artist": "*Luna, ねんね",
+        "trkno": 0,
+        "album": "Single",
+        "year": 2023,
+        "comment": "夏曲唯一真神"
       },
       {
         "image": "asstes/pikasonic_hazymoon.jpg",
         "alt": "hazymoonnight",
-        "title": "朧月夜 - Hazymoon Night",
+        "title": "朧月夜 - Hazy Moon Night",
         "artist": "Nanastukaze",
         "trkno": 0,
         "album": "Single",
@@ -240,7 +250,7 @@
       {
         "image": "asstes/yuika_konironiakogarete.jpg",
         "alt": "konironiakogarete",
-        "title": "紺色に憧れて",
+        "title": "紺色に憧れて - Longing for navy blue",
         "artist": "『ユイカ』",
         "trkno": 1,
         "album": "紺色に憧れて",
@@ -248,14 +258,14 @@
         "comment": "青春奔放的明快与活力"
       },
       {
-        "image": "asstes/astluna_somedayinthatsummer.jpg",
-        "alt": "somedayinthatsummer",
-        "title": "あの夏のいつかは (2023 Ver.) - Someday in that Summer",
-        "artist": "*Luna, ねんね",
+        "image": "asstes/hibana_bluecontrast.jpg",
+        "alt": "bluecontrast",
+        "title": "青色コントラスト - Blue Contrast",
+        "artist": "ヒバナ",
         "trkno": 0,
         "album": "Single",
         "year": 2023,
-        "comment": "夏曲唯一真神"
+        "comment": ""
       },
       {
         "image": "asstes/zytokine_roundabout.jpg",
@@ -328,6 +338,16 @@
         "comment": "我这个人很简单, 你给我听ayo我就会似\n编曲薄了点\n听一辈子J-Pop"
       },
       {
+        "image": "asstes/whitercd_theunattended.jpg",
+        "alt": "morinokuni",
+        "title": "杜の国 - Mori no Kuni",
+        "artist": "Blacklolita",
+        "trkno": 24,
+        "album": "The Unattended",
+        "year": 2022,
+        "comment": "第一印象够好又足够耐听\n挺意外能在二刺猿专辑听到, 动态如果给多点可能会听着更爽"
+      },
+      {
         "image": "asstes/asaka_sakura.jpg",
         "alt": "sakurakakushi",
         "title": "桜隠し",
@@ -375,7 +395,7 @@
         "trkno": 9,
         "album": "東方永夜抄～Imperishable Night. サウンドトラック",
         "year": 2004,
-        "comment": "爆!"
+        "comment": "爆! (指一种任何改编都无法企及的权威)"
       },
       {
         "image": "asstes/th_akyusuntoched.jpg",
@@ -385,7 +405,7 @@
         "trkno": 11,
         "album": "幺樂団の歴史 1～ Akyu's Untouched Score vol.1",
         "year": 2006,
-        "comment": "不同于部分原曲含金量只体现在作曲, 本曲编曲上也有着非常高的完成度\n其实MIDI音色不够完美, 频谱的覆盖上并不广, 但是天才居然利用足够亮的编曲回避了不少问题"
+        "comment": "不同于部分原曲含金量只体现在作曲, 本曲编曲上也有着非常高的完成度\n其实MIDI音色不够完美, 频谱的覆盖上并不广, 但是足够亮的编曲回避了不少问题"
       },
       {
         "image": "asstes/arc_memofdreams.jpg",
